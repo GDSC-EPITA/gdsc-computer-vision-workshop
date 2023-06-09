@@ -9,6 +9,8 @@ Computer Vision Workshop Files
 - Part 3: Kaggle Contest [HERE](https://www.kaggle.com/competitions/???/)
 
 ## Usage using the Repository Files
+You can directly go on the Colab link and click "Copy to Drive" to get a copy you can save.
+However, if you would like to start from the GitHub :
 1. Open [Google Colab](https://colab.research.google.com/)  
 2. Import this repository in google collab using the github import feature.
 3. Import notebook -> Github -> Put this url: https://github.com/GDSC-EPITA/gdsc-computer-vision-workshop
