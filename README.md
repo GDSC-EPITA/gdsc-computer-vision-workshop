@@ -27,10 +27,14 @@ If you would like to start from the GitHub :
 5. Find my Skeleton notebook
 6. Copy & Edit it
 7. Optional
-> Make sure that in the notebook options:
-> - The lastest environnement is selected
-> - Access to the internet is on
-> - Accelerator is selected to GPU P100
+  Make sure that in the notebook options:
+ - The lastest environnement is selected
+ - Access to the internet is on
+ - Accelerator is selected to GPU P100
+8. To save, click "Save Version" top right and select "Quick Save"
+   Otherwise, it will rerun your whole notebook in the background
+9. To submit, click "Submit" on the right panel, make sure your notebook outputs a
+  `submission.csv` file
 
 ## Credit
 This workshop was made by the GDSC of EPITA, featuring : University of Paris-Saclay / Sorbonne University.
