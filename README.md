@@ -8,13 +8,29 @@ Computer Vision Workshop Files
   - Part II : Data Augmentation & Transfer Learning - [HERE](https://colab.research.google.com/drive/1DFUZGYe6NboRGWJJgfG6SjEHNO6mi2E2?usp=sharing)
 - Part 3: Kaggle Contest [HERE](https://www.kaggle.com/competitions/???/)
 
-## Usage using the Repository Files
+## Usage using Colab
 You can directly go on the Colab link and click "Copy to Drive" to get a copy you can save.
-However, if you would like to start from the GitHub :
+Everything is explained in the first notebook.
+
+## Usage using the Repository Files
+If you would like to start from the GitHub :
 1. Open [Google Colab](https://colab.research.google.com/)  
 2. Import this repository in google collab using the github import feature.
 3. Import notebook -> Github -> Put this url: https://github.com/GDSC-EPITA/gdsc-computer-vision-workshop
 4. Double click the file to open the notebook
+
+# Participate in the Kaggle Contest
+1. Get to the contest page
+2. Click "Join Competition"
+3. Read and Accept the rules
+4. Click the "Code" tab
+5. Find my Skeleton notebook
+6. Copy & Edit it
+7. Optional
+> Make sure that in the notebook options:
+> - The lastest environnement is selected
+> - Access to the internet is on
+> - Accelerator is selected to GPU P100
 
 ## Credit
 This workshop was made by the GDSC of EPITA, featuring : University of Paris-Saclay / Sorbonne University.
