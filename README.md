@@ -4,7 +4,7 @@
 - Part 2: Practical on Google Collab
   - Part I : Deep Learning Fundamentals - [HERE](https://colab.research.google.com/drive/1by1TPMxVqE_SVR78ipIfYlOQ-TNTid3a?usp=sharing)
   - Part II : Data Augmentation & Transfer Learning - [HERE](https://colab.research.google.com/drive/1DFUZGYe6NboRGWJJgfG6SjEHNO6mi2E2?usp=sharing)
-###### - Part 3: Kaggle Contest [SOON]()
+- Part 3: *Kaggle Contest [SOON]()*
 
 ***
 
