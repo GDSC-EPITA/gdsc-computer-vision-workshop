@@ -1,5 +1,7 @@
 # GDSC Computer Vision Introduction Workshop
 
+[GDSC EPITA Event Page](https://gdsc.community.dev/events/details/developer-student-clubs-university-of-paris-saclay-presents-computer-vision-from-basics-to-kaggle-contest/cohost-epita)
+
 - Part 1: [Live presentation](https://www.youtube.com/watch?v=1Z7UboVkDBk) (for those not present the slides are available [HERE](https://docs.google.com/presentation/d/1IeGImfbTVp6zxPsr657OTNxYNqEHkae8Qg9F53WCEoY/edit?usp=sharing))
 - Part 2: Practical on Google Collab
   - Part I : Deep Learning Fundamentals - [HERE](https://colab.research.google.com/drive/1by1TPMxVqE_SVR78ipIfYlOQ-TNTid3a?usp=sharing)
