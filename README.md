@@ -6,7 +6,7 @@
 - Part 2: Practical on Google Collab
   - Part I : Deep Learning Fundamentals - [HERE](https://colab.research.google.com/drive/1by1TPMxVqE_SVR78ipIfYlOQ-TNTid3a?usp=sharing)
   - Part II : Data Augmentation & Transfer Learning - [HERE](https://colab.research.google.com/drive/1DFUZGYe6NboRGWJJgfG6SjEHNO6mi2E2?usp=sharing)
-- [SOON 22nd June] Part 3: Kaggle Contest [HERE]()
+- [Available 22 June 2PM] Part 3: Kaggle Contest [HERE]()
 
 ***
 
@@ -30,7 +30,7 @@ If you would like to start from the GitHub :
 2. Click "Join Competition"
 3. Read and Accept the rules
 4. Click the "Code" tab
-5. Find my Skeleton notebook
+5. Click on the skeleton notebook [GDSC - Minecraft Classification - Skeleton](https://www.kaggle.com/code/ordinarydev83/gdsc-minecraft-classification-skeleton/notebook)
 6. Copy & Edit it
 7. (Optional)
   Make sure that in the notebook options:
@@ -39,6 +39,7 @@ If you would like to start from the GitHub :
  - Accelerator is selected to GPU P100
 8. To save, click "Save Version" top right and select "Quick Save"
    Otherwise, it will rerun your whole notebook in the background
+   Remember to save before closing your tab !
 9. To submit, click "Submit" on the right panel, make sure your notebook outputs a
   `submission.csv` file first
 
