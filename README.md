@@ -6,7 +6,7 @@
 - Part 2: Practical on Google Collab
   - Part I : Deep Learning Fundamentals - [HERE](https://colab.research.google.com/drive/1by1TPMxVqE_SVR78ipIfYlOQ-TNTid3a?usp=sharing)
   - Part II : Data Augmentation & Transfer Learning - [HERE](https://colab.research.google.com/drive/1DFUZGYe6NboRGWJJgfG6SjEHNO6mi2E2?usp=sharing)
-- [Available 22 June 2PM] Part 3: Kaggle Contest [HERE]()
+- Part 3: Kaggle Contest [HERE](https://www.kaggle.com/t/6509dd0b51df40319447e7e2faa2b527)
 
 ***
 
