@@ -1,4 +1,4 @@
-# GDSC Computer Vision Introduction Workshop
+# GDSC Computer Vision Kaggle Contest
 
 [GDSC EPITA Event Page](https://gdsc.community.dev/events/details/developer-student-clubs-university-of-paris-saclay-presents-computer-vision-from-basics-to-kaggle-contest/cohost-epita)
 
