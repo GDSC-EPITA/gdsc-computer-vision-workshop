@@ -1,6 +1,6 @@
 # GDSC Computer Vision Kaggle Contest
 
-[GDSC EPITA Event Page](https://gdsc.community.dev/events/details/developer-student-clubs-university-of-paris-saclay-presents-computer-vision-from-basics-to-kaggle-contest/cohost-epita)
+[GDSC EPITA Event Page for the Conference](https://gdsc.community.dev/events/details/developer-student-clubs-university-of-paris-saclay-presents-computer-vision-from-basics-to-kaggle-contest/cohost-epita)
 
 - Part 1: [Live presentation](https://www.youtube.com/watch?v=1Z7UboVkDBk) (for those not present the slides are available [HERE](https://docs.google.com/presentation/d/1IeGImfbTVp6zxPsr657OTNxYNqEHkae8Qg9F53WCEoY/edit?usp=sharing))
 - Part 2: Practical on Google Collab
